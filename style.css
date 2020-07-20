@@ -1,0 +1,34 @@
+.tower{
+    display: flex; 
+    flex-direction: column-reverse;  
+    align-items: center; 
+   
+}
+/*.tower2{
+  /*  margin-top: 300px;
+    /* padding-right: 100px; */
+
+.mystyle1{
+    height:20px;
+    width: 170px;
+    border-radius: 3em;
+    background-color: blue;
+}
+.mystyle2{
+    height:20px;
+    width: 150px;
+    border-radius: 3em;
+    background-color: brown;
+}
+.mystyle3{
+    height:20px;
+    width: 130px;
+    border-radius: 3em;
+    background-color: chartreuse;
+}
+.mystyle4{
+    height:20px;
+    width: 110px;
+    border-radius: 3em;
+    background-color: darkcyan;
+}
